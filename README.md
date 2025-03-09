@@ -9,7 +9,6 @@ Currently studying at **Arizona State University**, I love working with **Kotlin
 - 💡 Open to collaboration on exciting Android projects.  
 
 ### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](your-linkedin-url)  
 [![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail)](mailto:achason@asu.edu)  
 
 ---
