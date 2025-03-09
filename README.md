@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋  
 
-<!--
-**achason00/achason00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Adrian Chason**, an Android Developer passionate about building modern, high-performance mobile apps.  
+Currently studying at **Arizona State University**, I love working with **Kotlin, Jetpack Compose, and modern Android frameworks**.  
 
-Here are some ideas to get you started:
+### 🔹 About Me  
+- 📱 Focused on crafting smooth and efficient Android experiences.  
+- 🚀 Always learning and exploring new mobile technologies.  
+- 💡 Open to collaboration on exciting Android projects.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](your-linkedin-url)  
+[![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail)](mailto:achason@asu.edu)  
+
+---
+⭐️ _Let's build something awesome together!_
